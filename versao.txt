@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 540
-v 5.4
+c 541
+v 5.4.1
 min 520
-f db1295a8e5186b1ed0cb886ee41f98ab5154beab9da1f3c08008305f51c0a3cd 1809569 index.html
+f 614653a68d6f09c44e669170d2495bbe394917e3b4a8da10d18a029cc593c0c5 1955021 index.html
 f 0d21782db99481ec23f39d08c85af6f310b7a120680cea6a5fd91f44456bd7f0 25548 gfx/F10-1.webp
 f 50ad29bfa9cb27a6366e695956ddad4b8773061f86bd331d5dcffd9dc7f9acbc 19722 gfx/F10-2.webp
 f 285d50bb6ec5c190934e9544616612af0416f3af1039b239229a3486c896af19 13944 gfx/F11-1.webp
@@ -111,11 +111,11 @@ f 9bc86d67df210c7dfbf5125cb151f5bf58663d678a4bce12f0e9aab8d7223472 4484 gfx/mold
 f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/roleta_bola.webp
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
-n pt Duas jurisdições novas depois da Lua (Metaverso e Nuvem) com os capítulos VI e VII, vítimas que reagem, família ao telefone, vítimas locais, novos clientes absurdos, prequela do Chefe, investigação da Ferraz, dois finais novos e certificado de carreira.
-n en Two new jurisdictions after the Moon (Metaverse and Cloud) with chapters VI and VII, victims who react, relatives grabbing the phone, local victims, new absurd clients, the Boss prequel, Ferraz's investigation, two new endings and a career certificate.
-n es Dos jurisdicciones nuevas después de la Luna (Metaverso y Nube) con los capítulos VI y VII, víctimas que reaccionan, familia al teléfono, víctimas locales, nuevos clientes absurdos, la precuela del Jefe, la investigación de Ferraz, dos finales nuevos y certificado de carrera.
-n zh 月球之后新增两个司法管辖区（元宇宙和云端），带来第六章和第七章、会做出反应的受害者、抢电话的家人、本地受害者、新的荒诞客户、老板前传、费拉兹的调查、两个新结局和职业证书。
-n fr Deux nouvelles juridictions après la Lune (Métavers et Nuage) avec les chapitres VI et VII, des victimes qui réagissent, la famille au téléphone, des victimes locales, de nouveaux clients absurdes, la préquelle du Patron, l’enquête de Ferraz, deux nouvelles fins et un certificat de carrière.
-n de Zwei neue Jurisdiktionen nach dem Mond (Metaversum und Cloud) mit den Kapiteln VI und VII, Opfer, die reagieren, Familie am Telefon, lokale Opfer, neue absurde Kunden, die Vorgeschichte des Chefs, Ferraz’ Ermittlung, zwei neue Enden und ein Karrierezertifikat.
-n ru Две новые юрисдикции после Луны (Метавселенная и Облако) с главами VI и VII, жертвы, которые реагируют, родственники у телефона, местные жертвы, новые абсурдные клиенты, предыстория Босса, расследование Феррас, два новых финала и сертификат карьеры.
-sig MEUCID/h+gJLfoRcmRSucDO0NtQGV1ZibC8YpcQaIDTfX/KmAiEAytbWbpxQzQE1hMRKuP6GK26jIlZLbDVEaL/4eqOr620=
+n pt Vozes 8-bit, conversas por SMS e redes sociais, vítimas que voltam avisadas, combos de táticas, duas chamadas ao mesmo tempo, resumo da chamada, dois golpes por fase (Olá mãe, MB Way, bilhetes…), devolver o dinheiro muda a história, final secreto sem apreensões, certificado e modo escola.
+n en 8-bit voices, text and social media chats, returning victims who were warned, tactic combos, two calls at once, call summaries, two scams per stage (Hi Mum, payment requests, fake tickets…), giving money back changes the story, a secret ending with no raids, training certificate and school mode.
+n es Voces de 8 bits, chats por SMS y redes, víctimas que vuelven avisadas, combos de tácticas, dos llamadas a la vez, resumen de llamada, dos timos por fase (Hola mamá, pagos por móvil, entradas falsas…), devolver el dinero cambia la historia, final secreto sin redadas, certificado y modo escuela.
+n zh 8 位语音、短信和社交媒体对话、已被提醒后再次接听的受害者、套路组合、同时接两通电话、通话总结、每个阶段两种骗局（妈我换号了、手机收款请求、假门票……）、退钱会改变剧情、零查获的隐藏结局、训练证书和学校模式。
+n fr Voix 8 bits, chats SMS et réseaux sociaux, victimes qui reviennent prévenues, combos de tactiques, deux appels à la fois, résumé d’appel, deux arnaques par étape (Coucou maman, paiement mobile, faux billets…), rendre l’argent change l’histoire, fin secrète sans descente, certificat, mode école.
+n de 8-Bit-Stimmen, SMS- und Social-Media-Chats, gewarnte Opfer kehren zurück, Taktik-Kombos, zwei Anrufe zugleich, Anruf-Zusammenfassung, zwei Maschen pro Stufe (Hallo Mama, Zahlungsanfragen, Fake-Tickets…), Geld zurückgeben ändert die Geschichte, geheimes Ende ohne Razzia, Zertifikat, Schulmodus.
+n ru 8-битные голоса, переписка по SMS и в соцсетях, жертвы возвращаются предупреждёнными, комбо тактик, два звонка сразу, итог звонка, две аферы на этап («Мам, новый номер», запросы на оплату, фальшивые билеты…), возврат денег меняет историю, секретный финал без конфискаций, сертификат и школьный режим.
+sig MEUCIGLU742RF4eNGXsllhChPCMbFyTJVCTDApaPbAbGuXhWAiEA/WBUW6IF69RGOL48hvnG/AU7Ty0FLcmSe+Ut/bjoZM0=
