@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 530
-v 5.3
+c 540
+v 5.4
 min 520
-f c91d75b18fc2c6deae70f1c69b3bc5eb90c0ad68d27125e93aec45ba08e86bd9 1649573 index.html
+f db1295a8e5186b1ed0cb886ee41f98ab5154beab9da1f3c08008305f51c0a3cd 1809569 index.html
 f 0d21782db99481ec23f39d08c85af6f310b7a120680cea6a5fd91f44456bd7f0 25548 gfx/F10-1.webp
 f 50ad29bfa9cb27a6366e695956ddad4b8773061f86bd331d5dcffd9dc7f9acbc 19722 gfx/F10-2.webp
 f 285d50bb6ec5c190934e9544616612af0416f3af1039b239229a3486c896af19 13944 gfx/F11-1.webp
@@ -77,6 +77,8 @@ f 39dc33d661f7e27cccb18ec8c69cf93442cc69d15ab902bb7d64adccc7a360e2 39042 gfx/cen
 f 5a36473d952311e3af8ef424db448c18fe3d9325c737cae4e209f4982f5ecf76 28388 gfx/cen_04_seicheles.webp
 f 7187f889c69d06c0075f1246983de9eb6e35908ce8dedefb25f48458a2c97112 55638 gfx/cen_05_monaco.webp
 f 655d576edf30fff831f8d2bb7060088af50cf95e44688a62763d8e81559eb0a5 28576 gfx/cen_06_lua.webp
+f 5aab3d88d245a0238ca66a089825f3e4acfb0d06668f6efaaf6e05b6ee710c1d 16756 gfx/cen_07_metaverso.webp
+f 93d0f28fe2563040d417f45c65d0819108f3fab839947716fbb5595b209b839e 10996 gfx/cen_08_nuvem.webp
 f 5fa745af97934aa1676445a2fc0f405fcfc001c266803530301bbdc297946c66 51206 gfx/efeitos_1.webp
 f 40b93696668861e6c5b8d188309395cb97f9519e34235f8544b9b495cd9b7e24 61374 gfx/efeitos_2.webp
 f 61f6b924ce08d87f483efe8cf712f258582e26793338a1dbff40935ea8529014 31456 gfx/esc_01_garagem.webp
@@ -109,11 +111,11 @@ f 9bc86d67df210c7dfbf5125cb151f5bf58663d678a4bce12f0e9aab8d7223472 4484 gfx/mold
 f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/roleta_bola.webp
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
-n pt Arranque à Windows 95, cena de abertura, tutorial, protetor de ecrã, cores para daltonismo e «Privacidade e os meus dados».
-n en Windows 95-style boot, opening scene, tutorial, screen saver, colour-blind colours and "Privacy and my data".
-n es Arranque estilo Windows 95, escena de apertura, tutorial, salvapantallas, colores para daltonismo y «Privacidad y mis datos».
-n zh Windows 95 风格启动、开场动画、教程、屏幕保护、色盲配色以及“隐私与我的数据”。
-n fr Démarrage façon Windows 95, scène d’ouverture, tutoriel, économiseur d’écran, couleurs pour daltonisme et « Confidentialité et mes données ».
-n de Start im Windows-95-Stil, Eröffnungsszene, Tutorial, Bildschirmschoner, Farben bei Farbenblindheit und „Datenschutz und meine Daten“.
-n ru Запуск в стиле Windows 95, вступительная сцена, обучение, заставка, цвета для дальтоников и «Конфиденциальность и мои данные».
-sig MEYCIQCB3H4vJTsx6XRGq9OqVJSMnLqS2SZVcQ9LvboXf5hf0QIhAKtsslv2ACadoLZRVwRDQMRVNvQ7EwDpx7y5tsfV9M/k
+n pt Duas jurisdições novas depois da Lua (Metaverso e Nuvem) com os capítulos VI e VII, vítimas que reagem, família ao telefone, vítimas locais, novos clientes absurdos, prequela do Chefe, investigação da Ferraz, dois finais novos e certificado de carreira.
+n en Two new jurisdictions after the Moon (Metaverse and Cloud) with chapters VI and VII, victims who react, relatives grabbing the phone, local victims, new absurd clients, the Boss prequel, Ferraz's investigation, two new endings and a career certificate.
+n es Dos jurisdicciones nuevas después de la Luna (Metaverso y Nube) con los capítulos VI y VII, víctimas que reaccionan, familia al teléfono, víctimas locales, nuevos clientes absurdos, la precuela del Jefe, la investigación de Ferraz, dos finales nuevos y certificado de carrera.
+n zh 月球之后新增两个司法管辖区（元宇宙和云端），带来第六章和第七章、会做出反应的受害者、抢电话的家人、本地受害者、新的荒诞客户、老板前传、费拉兹的调查、两个新结局和职业证书。
+n fr Deux nouvelles juridictions après la Lune (Métavers et Nuage) avec les chapitres VI et VII, des victimes qui réagissent, la famille au téléphone, des victimes locales, de nouveaux clients absurdes, la préquelle du Patron, l’enquête de Ferraz, deux nouvelles fins et un certificat de carrière.
+n de Zwei neue Jurisdiktionen nach dem Mond (Metaversum und Cloud) mit den Kapiteln VI und VII, Opfer, die reagieren, Familie am Telefon, lokale Opfer, neue absurde Kunden, die Vorgeschichte des Chefs, Ferraz’ Ermittlung, zwei neue Enden und ein Karrierezertifikat.
+n ru Две новые юрисдикции после Луны (Метавселенная и Облако) с главами VI и VII, жертвы, которые реагируют, родственники у телефона, местные жертвы, новые абсурдные клиенты, предыстория Босса, расследование Феррас, два новых финала и сертификат карьеры.
+sig MEUCID/h+gJLfoRcmRSucDO0NtQGV1ZibC8YpcQaIDTfX/KmAiEAytbWbpxQzQE1hMRKuP6GK26jIlZLbDVEaL/4eqOr620=
