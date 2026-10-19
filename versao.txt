@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 520
-v 5.2
+c 530
+v 5.3
 min 520
-f a33e2e39963a9d6079e0e25c9b6cb813151ddabb1b44c458a0c1e64ac9d862fb 1482492 index.html
+f c91d75b18fc2c6deae70f1c69b3bc5eb90c0ad68d27125e93aec45ba08e86bd9 1649573 index.html
 f 0d21782db99481ec23f39d08c85af6f310b7a120680cea6a5fd91f44456bd7f0 25548 gfx/F10-1.webp
 f 50ad29bfa9cb27a6366e695956ddad4b8773061f86bd331d5dcffd9dc7f9acbc 19722 gfx/F10-2.webp
 f 285d50bb6ec5c190934e9544616612af0416f3af1039b239229a3486c896af19 13944 gfx/F11-1.webp
@@ -109,4 +109,11 @@ f 9bc86d67df210c7dfbf5125cb151f5bf58663d678a4bce12f0e9aab8d7223472 4484 gfx/mold
 f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/roleta_bola.webp
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
-sig MEYCIQCzsFcHCiULzacPvwukahR/BUp3OwiANnWGpZnx6NL1JAIhAKvf9RkMImHe1N8gEnDrGvmeoiwcrCcrcDz5sXKF2Tsn
+n pt Arranque à Windows 95, cena de abertura, tutorial, protetor de ecrã, cores para daltonismo e «Privacidade e os meus dados».
+n en Windows 95-style boot, opening scene, tutorial, screen saver, colour-blind colours and "Privacy and my data".
+n es Arranque estilo Windows 95, escena de apertura, tutorial, salvapantallas, colores para daltonismo y «Privacidad y mis datos».
+n zh Windows 95 风格启动、开场动画、教程、屏幕保护、色盲配色以及“隐私与我的数据”。
+n fr Démarrage façon Windows 95, scène d’ouverture, tutoriel, économiseur d’écran, couleurs pour daltonisme et « Confidentialité et mes données ».
+n de Start im Windows-95-Stil, Eröffnungsszene, Tutorial, Bildschirmschoner, Farben bei Farbenblindheit und „Datenschutz und meine Daten“.
+n ru Запуск в стиле Windows 95, вступительная сцена, обучение, заставка, цвета для дальтоников и «Конфиденциальность и мои данные».
+sig MEYCIQCB3H4vJTsx6XRGq9OqVJSMnLqS2SZVcQ9LvboXf5hf0QIhAKtsslv2ACadoLZRVwRDQMRVNvQ7EwDpx7y5tsfV9M/k
