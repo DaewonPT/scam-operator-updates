@@ -1,8 +1,14 @@
 SCAMUPD 1
-c 541
-v 5.4.1
+c 542
+v 5.4.2
 min 520
-f 614653a68d6f09c44e669170d2495bbe394917e3b4a8da10d18a029cc593c0c5 1955021 index.html
+f f7c563774c279345fe7a02e0aa7012273de9c4fe13320409829f525e6b78096a 1967158 index.html
+f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
+f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
+f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
+f 44a6c8a9ca6aa83e3f8f6cfd52af84bc5cec46bff75070df98d31573c73838e4 86706 gfx/EXP-3.webp
+f 5c80c99da93808377a39a48425c33d4b6c5ea4ab92c768d587ad9d07c48895a4 78980 gfx/EXP-4.webp
+f 1516219b1ace0647939318c8aa6cec5cc6c84481744a30e4d204f599a8687e61 78422 gfx/EXP-5.webp
 f 0d21782db99481ec23f39d08c85af6f310b7a120680cea6a5fd91f44456bd7f0 25548 gfx/F10-1.webp
 f 50ad29bfa9cb27a6366e695956ddad4b8773061f86bd331d5dcffd9dc7f9acbc 19722 gfx/F10-2.webp
 f 285d50bb6ec5c190934e9544616612af0416f3af1039b239229a3486c896af19 13944 gfx/F11-1.webp
@@ -23,6 +29,7 @@ f b9b60b6e116393c5635a1fd61fa5d13994992fbc118bc16798277007a4c56a7a 34198 gfx/F14
 f d0dd95e803beb90f24b65a482fd393be94e124633bc13997bb086d709d9a40a7 35138 gfx/F14-6.webp
 f e29b450f802a6dad9382987d6e77649efd37c71b9e1c5a3e75696370e32e21ca 34308 gfx/F14-7.webp
 f f072cc8dd52125a390b115d71ba6b21b805504dc8045233aae23a6f09c1c40a3 20218 gfx/F14-8.webp
+f cad4fb42fa48ab4091eba6682f3761f31a96e02a9c4e65dbe2b99473f302ec58 10324 gfx/F14-E.webp
 f 83630a852155dcf7cbd682937f53777827112b68ae0182b1faf0ee5927210f5a 36432 gfx/F15-1.webp
 f 3c1b73d53ac49c8a3ba2abcdbc53a733717bfddeea20fb6c3cdd7cce3bd38eb6 35958 gfx/F15-2.webp
 f c6c6941819349faaafbe936a40f7aa99ad71d1ccff3b55f4bc88f3384d5a13b0 29790 gfx/F15-3.webp
@@ -33,13 +40,18 @@ f c3326e1d64b71ac75dd8b5dbb063625f5e273d7909d20f27f7ede65424db46ad 17622 gfx/F2-
 f 182be00fc3d1fd0a072eb74f669a1c22b0764e9b0678f61d43ef4618a2787089 19762 gfx/F2-3.webp
 f 8689d490d460dd032a3e4b7f6da6113a1cf10f2de47571fe1c1265831e83764e 16452 gfx/F2-4.webp
 f ee14429f22349f934f5dfcbb74a2632b0f79ca1145d2ed1f2607c805edeaea57 20504 gfx/F2-5.webp
+f a74b352a1a5a8be40319916882ad73561bd7b17d8301102a8d2e71ae6ac4db7e 11846 gfx/F2-6.webp
+f ba7edf346044e5a4b5726e82323e92b07b93812e9ff445e2d05941e615e4296f 17992 gfx/F2-7.webp
 f 91d9f1a9a94431bff19c0f272b7e17b7e42ccfdd5f312f9b5e89b5065df834e4 25744 gfx/F2-C.webp
+f 8ac3286270fcc0405b38873f4ac369b8932240d9c059bcefa1f610f1d8b8f8f8 10528 gfx/F2-C2.webp
 f 5a605e74180afa4211826f150076bc3e4cb43ac640239c2d27ad52211dbfc852 31944 gfx/F3-1.webp
 f 6efe7b5e0790fd984796f1c74a0028a9c123830dd053388ffbb38104b286898a 31418 gfx/F3-2.webp
 f 890d50d8bd434a3a085791f3884cdc942eb48e4f058b30853b7af16775a608b1 29862 gfx/F3-3.webp
 f 2ea48d400d927ee3d2ac1ed2c393e9d5a299d302a8e9fcf0a820c1c718fb33b8 28782 gfx/F3-4.webp
 f 47f488e946eb9b0cc8cb9dfa581c89ad1f2dd41d44f41d2c5ef61e558c0bf2a4 34536 gfx/F3-5.webp
 f f71f06478350175be2729421f6b4fb939d0b49ec9651bbb8a2628648d9bff56d 22326 gfx/F3-6.webp
+f 682aad54726237d72cc7bcb5b40b24552cbdc09f9b44344523315c2eaebedbad 34870 gfx/F3-7.webp
+f e76ac685d3581e4abfc35d23e136d61f56119f90802a5494ee23e445e99b9ac7 30132 gfx/F3-8.webp
 f 04920830aeaec6a9cc0021fb175111dd156e5143f1eb3bf131137494841ece00 26112 gfx/F4-1.webp
 f 9f6a2988d5814d06ef71c1695adbde1b2943d028bd4895b80f636e71d4ff4de5 41766 gfx/F4-2.webp
 f 76def5342fe80835c778ad022d51000c89508f071cf89ca9c8acddd87ee06cca 30856 gfx/F4-3.webp
@@ -61,9 +73,17 @@ f 2beee9e7b45a130e891262647b019e23cf2cec39ea7242a3b3b93071c76e175f 28834 gfx/F8-
 f d8d4adddf8fde1dbc45aa78c0359c2cce128046a6c3b844ab107c1d5b44fa662 29870 gfx/F8-4.webp
 f d1ff57f5516cc98ad091d5811baaa160f0ce7dad25a8a522fdd3d119753fc2bf 28920 gfx/F8-5.webp
 f 8bf9be42543371201134685dc85c870cfe6a18e186d98f705c30ed1b6de5f729 38754 gfx/F8-6.webp
+f 61fed5306f8f45dd75612f62c1b746ab5d31a7347f77f076d462617189f42f56 54146 gfx/F8-7.webp
 f 73976f23d75b35e129179af00f416a5b00874d4783a27a9347abe93d72673e69 66218 gfx/F8-A.webp
 f 9a9834b57a0682a82ff91437147c02ef7c15388cf2dee7129ecb008c772718aa 46110 gfx/F8-R.webp
 f b9d8dd343109083cda94e6e4414412301ddb75d7914caa66b6a446aab1e44a61 62572 gfx/F8-S.webp
+f df398b562bab4778e76ed7510e1f8a5997e99232f2c6476ed9b40ee584bfef44 56128 gfx/FAM-1.webp
+f f9a6d2ea328ec4efb3598ff84a0db97a6ff92589ecad911278c3c2b19d59c33a 83618 gfx/LOC-1.webp
+f 36fdbe2ae27b6a9504fff96c422cc125a1a4076ccd92d87ef38485a93273cc56 31028 gfx/LOC-2.webp
+f 2a37fe9a10282feeda9e3432c12c7686dab378dacb3bc339a92bb004c490df6e 24116 gfx/MED-1.webp
+f 5db9bf12d1a919f0546f878d5bca9dcbe95edf2a138dc53c42355af625d1c03a 22748 gfx/MED-2.webp
+f 9cb0312fe57d4e93ddfee84dcabbe9970612803aa560d2b68f6d224cc8b66483 22988 gfx/MED-3.webp
+f 0fc63ed3447024c8ec22f8863dd907406bd6c6e22ed181bceb7faa5c307ea572 13478 gfx/MED-4.webp
 f 80e4e3f3278d6d68e8cb653dbf8da3d19f728431b1463178bb2dd519dfebfd58 59832 gfx/animacoes_1.webp
 f 5442bf53ecdd083b73245fb4625907ae8a0e29de1cfbd5ce8966961cacd0ac88 39300 gfx/animacoes_2.webp
 f e60c5855b3155da71519ec852c1cfeb280b769d25a668ffa7663ff8ded928990 13688 gfx/app_logo.webp
@@ -77,8 +97,15 @@ f 39dc33d661f7e27cccb18ec8c69cf93442cc69d15ab902bb7d64adccc7a360e2 39042 gfx/cen
 f 5a36473d952311e3af8ef424db448c18fe3d9325c737cae4e209f4982f5ecf76 28388 gfx/cen_04_seicheles.webp
 f 7187f889c69d06c0075f1246983de9eb6e35908ce8dedefb25f48458a2c97112 55638 gfx/cen_05_monaco.webp
 f 655d576edf30fff831f8d2bb7060088af50cf95e44688a62763d8e81559eb0a5 28576 gfx/cen_06_lua.webp
-f 5aab3d88d245a0238ca66a089825f3e4acfb0d06668f6efaaf6e05b6ee710c1d 16756 gfx/cen_07_metaverso.webp
-f 93d0f28fe2563040d417f45c65d0819108f3fab839947716fbb5595b209b839e 10996 gfx/cen_08_nuvem.webp
+f 46f3fac464d99c7ba18919cb1ef928d69220d7d9abaf427e3c8743e3f4a63a55 34958 gfx/cen_07_metaverso.webp
+f 6ff652d3778d8857105e6675086f889dbf3d60972450246a56cf03a047f02694 43498 gfx/cen_08_nuvem.webp
+f c60a192e52f7e2e10ec5959f836a99c126374719fedf7213d7b06b7684192c30 3838 gfx/cert_selo.webp
+f d0a0966ca9f86234fecaaad82543ab3d9d26ee998d7a19850882decaa000202f 32078 gfx/certificado.webp
+f 66ab8ff30e98f50ca3142bafe28f21389d1da15495daf4e29ad7ceae74546fab 36224 gfx/cine_1.webp
+f b5aa0ceb6a74a5b232826620c8d0af7bae92a35c36c187ad85f5c5982e51582d 29094 gfx/cine_2.webp
+f 446771c9a252a7459e8b83d5b47d3d277a5aed4b70dace8bb0b857a3c23492f8 26238 gfx/cine_3.webp
+f db67e780e52922cd48fe6dba17b612173cc997342182fe65e6b5032082115f11 28964 gfx/cine_4.webp
+f c56d2236a93609aa40bc3412245cde4f8ff63ea28f49291051a9b8fe1140a8e9 18698 gfx/cine_5.webp
 f 5fa745af97934aa1676445a2fc0f405fcfc001c266803530301bbdc297946c66 51206 gfx/efeitos_1.webp
 f 40b93696668861e6c5b8d188309395cb97f9519e34235f8544b9b495cd9b7e24 61374 gfx/efeitos_2.webp
 f 61f6b924ce08d87f483efe8cf712f258582e26793338a1dbff40935ea8529014 31456 gfx/esc_01_garagem.webp
@@ -91,6 +118,8 @@ f c355aaed13720579ee3ef92f80a6822bdd077675a11aeec78154484715fef670 36418 gfx/fim
 f 5c1e96ac602310f44d1d00e7a4928ea300f4e42d2f57e6608dd9b869b69bfdce 42786 gfx/fim_02_certidao.webp
 f cac34ae739d3b5e8e9faee4036282193932c78f9915dbd814da514c8c1e8aeda 28368 gfx/fim_03_identidade.webp
 f 787473c5a6ee0c4a5d2fdf9fb1ccb5856d4175733e176e1a34da7e9144da952d 40560 gfx/fim_04_jardim.webp
+f bfac2699a8fae706f462ad868d070fefb01003174fa68322152d198791f755d3 36206 gfx/fim_consultor.webp
+f a0d9b0a5f4111047213ad1da78e265d6f878c29e81fadf1cdc9314bffa881e71 27192 gfx/fim_secreto.webp
 f 270277088e9f78deb79040a6fdeadd6c4d398c33c00b238f9a05a35beb684e95 7792 gfx/fim_terminal.webp
 f 1a4b976f19f17e158cd2ff2520ba38323a3a565ed1216220caf6c0d8720a92ee 29956 gfx/fuga_01_mala.webp
 f fbb16e27f72aff53654bbdc59e81e217065e66150f3e93678e5942fa475486f7 34214 gfx/fuga_02_aeroporto.webp
@@ -98,8 +127,12 @@ f f5358aca05b33e1e39ec3990ebef73170121ad6e548d10eee0cbcae9a7a16aab 29962 gfx/fug
 f bd7b3195d6dec250ec26d9c5efc98f13ae28e8ecef58ccdfc8c8afd7cd800e08 25848 gfx/fuga_04_jato.webp
 f 5d9fc27a83eb3c713a18662378c27a503e40340203f81d067b721f5dda5b7ade 40384 gfx/fuga_05_ilha.webp
 f 59874075bc0da0277438fd5cbba35d24562fefb65147d9c317de10253a8615fa 42986 gfx/fuga_06_passaporte.webp
+f 38c24b94b29d9bf7b46e5b0da8ac84f5bff3d4a9f6ea153e04379bf3342bb263 33206 gfx/insp_1.webp
+f 694f5f145561f3b783479e866f8c53e13d4a2cd5d392fc67f72083ccf7d486f5 29320 gfx/insp_2.webp
+f ac340137a696f8ba2d5f8b759e68119f4182649d761eb63ce52197753321713c 21712 gfx/insp_3.webp
 f 3172a810e902427a5680d1b4d18c13de841eda917e2828b260aff588e62a79fb 8446 gfx/livro_negro_capa.webp
 f 44b1e508fe80b2947b48d2c4a1221c4b3c8c58f9f9c89383c64a162b44023dbf 11918 gfx/livro_negro_pagina.webp
+f 59dc5642c9681fe8cd7c0a11643be825efad8d7b5f6441716017aed5b84256b5 7662 gfx/logo_estudio.webp
 f a7690d0902ad7ca2943ddd250d11d1ef166938e28aeea4f30288ebccc768d800 21020 gfx/mesa_blackjack.webp
 f 51f143992fce2bbc9ab3bc7060867375b35d33548923f0521d32079803f7a522 9416 gfx/mj_cabos_painel.webp
 f a3fc29cf22257e3ae9bc1b525730b1c5cd31d5c1c36a56af470b68a92b4095f0 3636 gfx/mj_cartao_destaque.webp
@@ -108,14 +141,18 @@ f 635a7de0634df971b59ba118480b5d86f98037179247bf731f0fb5507237b8d5 7220 gfx/mj_f
 f 01d623dc9352962b7e86d40734932f6145c98f626dea77d6ed5110517c7c2445 2782 gfx/mj_furia_vazia.webp
 f 0855e6a94976c709d6d7435ab4738c6114c1be50ff638676790817645fa1f621 23898 gfx/mj_guiao_fundo.webp
 f 9bc86d67df210c7dfbf5125cb151f5bf58663d678a4bce12f0e9aab8d7223472 4484 gfx/moldura_aovivo.webp
+f bae13ee7ef1cc6b0b2905f80680e72a95cfa61c376cb9c5a6b3bc5ad1431e423 52998 gfx/preq_1.webp
+f 865586bdcb54155fad2261d7ee0633769e69d0e5a64c8819b62d3a2714c17a8d 42856 gfx/preq_2.webp
+f 00cbb247fca250b5281070d8e332174dcdef3087b3c9c6214be85002646a9294 52828 gfx/preq_3.webp
+f 21a805bc41afbe50280674f22d79de5bb0a3541ba1706df13751977448e81223 30406 gfx/preq_4.webp
 f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/roleta_bola.webp
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
-n pt Vozes 8-bit, conversas por SMS e redes sociais, vítimas que voltam avisadas, combos de táticas, duas chamadas ao mesmo tempo, resumo da chamada, dois golpes por fase (Olá mãe, MB Way, bilhetes…), devolver o dinheiro muda a história, final secreto sem apreensões, certificado e modo escola.
-n en 8-bit voices, text and social media chats, returning victims who were warned, tactic combos, two calls at once, call summaries, two scams per stage (Hi Mum, payment requests, fake tickets…), giving money back changes the story, a secret ending with no raids, training certificate and school mode.
-n es Voces de 8 bits, chats por SMS y redes, víctimas que vuelven avisadas, combos de tácticas, dos llamadas a la vez, resumen de llamada, dos timos por fase (Hola mamá, pagos por móvil, entradas falsas…), devolver el dinero cambia la historia, final secreto sin redadas, certificado y modo escuela.
-n zh 8 位语音、短信和社交媒体对话、已被提醒后再次接听的受害者、套路组合、同时接两通电话、通话总结、每个阶段两种骗局（妈我换号了、手机收款请求、假门票……）、退钱会改变剧情、零查获的隐藏结局、训练证书和学校模式。
-n fr Voix 8 bits, chats SMS et réseaux sociaux, victimes qui reviennent prévenues, combos de tactiques, deux appels à la fois, résumé d’appel, deux arnaques par étape (Coucou maman, paiement mobile, faux billets…), rendre l’argent change l’histoire, fin secrète sans descente, certificat, mode école.
-n de 8-Bit-Stimmen, SMS- und Social-Media-Chats, gewarnte Opfer kehren zurück, Taktik-Kombos, zwei Anrufe zugleich, Anruf-Zusammenfassung, zwei Maschen pro Stufe (Hallo Mama, Zahlungsanfragen, Fake-Tickets…), Geld zurückgeben ändert die Geschichte, geheimes Ende ohne Razzia, Zertifikat, Schulmodus.
-n ru 8-битные голоса, переписка по SMS и в соцсетях, жертвы возвращаются предупреждёнными, комбо тактик, два звонка сразу, итог звонка, две аферы на этап («Мам, новый номер», запросы на оплату, фальшивые билеты…), возврат денег меняет историю, секретный финал без конфискаций, сертификат и школьный режим.
-sig MEUCIGLU742RF4eNGXsllhChPCMbFyTJVCTDApaPbAbGuXhWAiEA/WBUW6IF69RGOL48hvnG/AU7Ty0FLcmSe+Ut/bjoZM0=
+n pt Arte nova em pixel: as vítimas mudam de cara durante a chamada, caras para a família, vítimas locais, clientes absurdos e vítimas novas, fases e itens dos capítulos VI e VII, medalhas, cenas da história e dos finais, certificado, logótipo e ícones de época.
+n en New pixel art: victims change faces during calls, faces for relatives, local victims, absurd clients and new victims, stages and items of chapters VI and VII, medals, story and ending scenes, certificate, logo and seasonal icons.
+n es Nuevo pixel art: las víctimas cambian de cara durante la llamada, caras para la familia, víctimas locales, clientes absurdos y víctimas nuevas, fases y objetos de los capítulos VI y VII, medallas, escenas de la historia y finales, certificado, logo e iconos de temporada.
+n zh 新像素美术：通话中受害者会变换表情，家人、本地受害者、荒诞客户和新受害者都有了头像，第六章和第七章的阶段与物品、奖章、剧情与结局场景、证书、标志和节日图标。
+n fr Nouveau pixel art : les victimes changent d’expression pendant l’appel, visages pour la famille, victimes locales, clients absurdes et nouvelles victimes, étapes et objets des chapitres VI et VII, médailles, scènes et fins, certificat, logo et icônes saisonnières.
+n de Neue Pixel-Art: Opfer wechseln im Anruf den Gesichtsausdruck, Gesichter für Familie, lokale Opfer, absurde Kunden und neue Opfer, Stufen und Gegenstände der Kapitel VI und VII, Medaillen, Story- und End-Szenen, Zertifikat, Logo und Saison-Icons.
+n ru Новый пиксель-арт: жертвы меняют выражение лица во время звонка, лица родственников, местных жертв, абсурдных клиентов и новых жертв, этапы и предметы глав VI и VII, медали, сцены сюжета и концовок, сертификат, логотип и сезонные иконки.
+sig MEQCIEfLVcozhrV1/R5tfP1rWqIt7Ckq2wLMuFQUxDCvlEYKAiBIiJ+feFH26QBVCSgz9yYPmjIfKTYwb6RmZ3ZvKmbpXw==
