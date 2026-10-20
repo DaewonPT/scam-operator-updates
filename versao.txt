@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 542
-v 5.4.2
+c 550
+v 5.5
 min 520
-f f7c563774c279345fe7a02e0aa7012273de9c4fe13320409829f525e6b78096a 1967158 index.html
+f 3eb6adc4428958eaf556dfc4d496cb4ab31017512828e2efc9b6d4773d647e0a 2312144 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -35,6 +35,18 @@ f 3c1b73d53ac49c8a3ba2abcdbc53a733717bfddeea20fb6c3cdd7cce3bd38eb6 35958 gfx/F15
 f c6c6941819349faaafbe936a40f7aa99ad71d1ccff3b55f4bc88f3384d5a13b0 29790 gfx/F15-3.webp
 f ba1f4e249980f75760aa4a2ebe7099583bdccc85862f66fbdde9354b42f6a43c 52722 gfx/F16-1.webp
 f 8e65fc729cd9e7d7e76320edddfe814b6561bb910404afab34ad3b9f1252453d 16720 gfx/F16-2.webp
+f bd4357d2cd02b560e16ff5053fc0cce9840a0ebcdfcaab67af6eb7e8c0e41135 24670 gfx/F17-1.webp
+f d8f97225ae497e68c3cb581a7f32ab6c0801f99dfa1373660fe58f75474beac8 28838 gfx/F17-10.webp
+f 70444cd48cba7622ebd14fd35100be36d99b751f772b8487852419adc0c49eec 26788 gfx/F17-11.webp
+f 8b66935138bda04f494e762e82f9d4fc0d4cd87efd7d46fd883dc15a9d842601 22324 gfx/F17-12.webp
+f 06fe4651d46a408dd7eadd4fb230a1ac750a3077c06d1e0b1740bd98a754248d 38592 gfx/F17-2.webp
+f 764072350778139b3ffbd44e322c4593101e996e6e43691bc0a3bdde3e194454 30426 gfx/F17-3.webp
+f 1a737c146459d5f8dec98407e31043c45a31d025c52199ee2455ea010467458c 27340 gfx/F17-4.webp
+f 4384dcc120ce4f300186d4cdb2ad53511c91b11e93670edcd86238b5ce733cba 41434 gfx/F17-5.webp
+f 4e9d6d10deb23cc8f6c93cbdd6d53f11f4656e475ade66d8080875243929b5ca 38218 gfx/F17-6.webp
+f a2a0487018d2883cdd316e8517957fe34324d3f880d60560668ac22d8cbb1fde 33086 gfx/F17-7.webp
+f 867de9ade8d476a6c54ef93f573b28de2d51dacc25d98b630af431d9994c93fe 36974 gfx/F17-8.webp
+f 678f05174a0fb3d46617811264d247c49df6d846c3c31a523295998fd9d02839 27008 gfx/F17-9.webp
 f 911bf743447f335e09fd86675c0693fc0b237d3da18b4a2a6362d0fb056554c9 14810 gfx/F2-1.webp
 f c3326e1d64b71ac75dd8b5dbb063625f5e273d7909d20f27f7ede65424db46ad 17622 gfx/F2-2.webp
 f 182be00fc3d1fd0a072eb74f669a1c22b0764e9b0678f61d43ef4618a2787089 19762 gfx/F2-3.webp
@@ -74,6 +86,7 @@ f d8d4adddf8fde1dbc45aa78c0359c2cce128046a6c3b844ab107c1d5b44fa662 29870 gfx/F8-
 f d1ff57f5516cc98ad091d5811baaa160f0ce7dad25a8a522fdd3d119753fc2bf 28920 gfx/F8-5.webp
 f 8bf9be42543371201134685dc85c870cfe6a18e186d98f705c30ed1b6de5f729 38754 gfx/F8-6.webp
 f 61fed5306f8f45dd75612f62c1b746ab5d31a7347f77f076d462617189f42f56 54146 gfx/F8-7.webp
+f e68e6c8bf4d9d215d002be90793f7f272c46bc90937a9bf6dfa7656e65251245 56536 gfx/F8-9.webp
 f 73976f23d75b35e129179af00f416a5b00874d4783a27a9347abe93d72673e69 66218 gfx/F8-A.webp
 f 9a9834b57a0682a82ff91437147c02ef7c15388cf2dee7129ecb008c772718aa 46110 gfx/F8-R.webp
 f b9d8dd343109083cda94e6e4414412301ddb75d7914caa66b6a446aab1e44a61 62572 gfx/F8-S.webp
@@ -84,6 +97,8 @@ f 2a37fe9a10282feeda9e3432c12c7686dab378dacb3bc339a92bb004c490df6e 24116 gfx/MED
 f 5db9bf12d1a919f0546f878d5bca9dcbe95edf2a138dc53c42355af625d1c03a 22748 gfx/MED-2.webp
 f 9cb0312fe57d4e93ddfee84dcabbe9970612803aa560d2b68f6d224cc8b66483 22988 gfx/MED-3.webp
 f 0fc63ed3447024c8ec22f8863dd907406bd6c6e22ed181bceb7faa5c307ea572 13478 gfx/MED-4.webp
+f 84dbedc076a9a8a016a5be93510075138ea292d90a7781bd4847c3ccf3071df2 7428 gfx/MED-543.webp
+f 70d5175c1572552e1ad106191045625b43d4bfdad88b56a9332d056855de2def 78344 gfx/MED-55.webp
 f 80e4e3f3278d6d68e8cb653dbf8da3d19f728431b1463178bb2dd519dfebfd58 59832 gfx/animacoes_1.webp
 f 5442bf53ecdd083b73245fb4625907ae8a0e29de1cfbd5ce8966961cacd0ac88 39300 gfx/animacoes_2.webp
 f e60c5855b3155da71519ec852c1cfeb280b769d25a668ffa7663ff8ded928990 13688 gfx/app_logo.webp
@@ -114,6 +129,8 @@ f 663233a08f84da827cd4a22bced11988d89d6ef74301f58bdb6b8c42e1850148 45784 gfx/esc
 f f6abac883463abbd9c5f32f623fb60e0236096ea808f74113b73173d555e91f3 27796 gfx/esc_04_torre.webp
 f 9b967e67c0aeb35c161f6a519d3fab402c377d6fa4d959607ec211600167634a 46056 gfx/esc_05_penthouse.webp
 f 1854f54b6f115ef0b31b1ded7a26e94513f00ad8beb8a028b91aa61315dd8b12 51558 gfx/esc_06_orbital.webp
+f d5fb76406dfd331b52268f452656495c07c56b6d1e9f598a8e70ba646764a262 12104 gfx/estrada.webp
+f 0ef863d0039851149c15e547dacb6d62beb45f9fd679edc363bb17c89a3bf052 29352 gfx/estudio_tv.webp
 f c355aaed13720579ee3ef92f80a6822bdd077675a11aeec78154484715fef670 36418 gfx/fim_01_nave.webp
 f 5c1e96ac602310f44d1d00e7a4928ea300f4e42d2f57e6608dd9b869b69bfdce 42786 gfx/fim_02_certidao.webp
 f cac34ae739d3b5e8e9faee4036282193932c78f9915dbd814da514c8c1e8aeda 28368 gfx/fim_03_identidade.webp
@@ -132,8 +149,9 @@ f 694f5f145561f3b783479e866f8c53e13d4a2cd5d392fc67f72083ccf7d486f5 29320 gfx/ins
 f ac340137a696f8ba2d5f8b759e68119f4182649d761eb63ce52197753321713c 21712 gfx/insp_3.webp
 f 3172a810e902427a5680d1b4d18c13de841eda917e2828b260aff588e62a79fb 8446 gfx/livro_negro_capa.webp
 f 44b1e508fe80b2947b48d2c4a1221c4b3c8c58f9f9c89383c64a162b44023dbf 11918 gfx/livro_negro_pagina.webp
-f 59dc5642c9681fe8cd7c0a11643be825efad8d7b5f6441716017aed5b84256b5 7662 gfx/logo_estudio.webp
+f 7e3bbda30ade8f47149c0863ef1d5cd63ca20130ee50f2af7339593631e1ee57 10332 gfx/logo_estudio.webp
 f a7690d0902ad7ca2943ddd250d11d1ef166938e28aeea4f30288ebccc768d800 21020 gfx/mesa_blackjack.webp
+f f36e0d785e2c4c27ffb01dfc3c8954982f7ed7edc39298ed972b2bd7e7577532 38620 gfx/mesa_poker.webp
 f 51f143992fce2bbc9ab3bc7060867375b35d33548923f0521d32079803f7a522 9416 gfx/mj_cabos_painel.webp
 f a3fc29cf22257e3ae9bc1b525730b1c5cd31d5c1c36a56af470b68a92b4095f0 3636 gfx/mj_cartao_destaque.webp
 f be7694c88bac9344b1475c6bb637b8ef1880256b4b8697d6ea4ada52d274ef17 1876 gfx/mj_cartao_vitima.webp
@@ -145,14 +163,16 @@ f bae13ee7ef1cc6b0b2905f80680e72a95cfa61c376cb9c5a6b3bc5ad1431e423 52998 gfx/pre
 f 865586bdcb54155fad2261d7ee0633769e69d0e5a64c8819b62d3a2714c17a8d 42856 gfx/preq_2.webp
 f 00cbb247fca250b5281070d8e332174dcdef3087b3c9c6214be85002646a9294 52828 gfx/preq_3.webp
 f 21a805bc41afbe50280674f22d79de5bb0a3541ba1706df13751977448e81223 30406 gfx/preq_4.webp
+f c0bd2554cb872e35b60e536d790704b13c76bb914457f9ba256a701790e45ea2 23618 gfx/prisao.webp
 f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/roleta_bola.webp
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
-n pt Arte nova em pixel: as vítimas mudam de cara durante a chamada, caras para a família, vítimas locais, clientes absurdos e vítimas novas, fases e itens dos capítulos VI e VII, medalhas, cenas da história e dos finais, certificado, logótipo e ícones de época.
-n en New pixel art: victims change faces during calls, faces for relatives, local victims, absurd clients and new victims, stages and items of chapters VI and VII, medals, story and ending scenes, certificate, logo and seasonal icons.
-n es Nuevo pixel art: las víctimas cambian de cara durante la llamada, caras para la familia, víctimas locales, clientes absurdos y víctimas nuevas, fases y objetos de los capítulos VI y VII, medallas, escenas de la historia y finales, certificado, logo e iconos de temporada.
-n zh 新像素美术：通话中受害者会变换表情，家人、本地受害者、荒诞客户和新受害者都有了头像，第六章和第七章的阶段与物品、奖章、剧情与结局场景、证书、标志和节日图标。
-n fr Nouveau pixel art : les victimes changent d’expression pendant l’appel, visages pour la famille, victimes locales, clients absurdes et nouvelles victimes, étapes et objets des chapitres VI et VII, médailles, scènes et fins, certificat, logo et icônes saisonnières.
-n de Neue Pixel-Art: Opfer wechseln im Anruf den Gesichtsausdruck, Gesichter für Familie, lokale Opfer, absurde Kunden und neue Opfer, Stufen und Gegenstände der Kapitel VI und VII, Medaillen, Story- und End-Szenen, Zertifikat, Logo und Saison-Icons.
-n ru Новый пиксель-арт: жертвы меняют выражение лица во время звонка, лица родственников, местных жертв, абсурдных клиентов и новых жертв, этапы и предметы глав VI и VII, медали, сцены сюжета и концовок, сертификат, логотип и сезонные иконки.
-sig MEQCIEfLVcozhrV1/R5tfP1rWqIt7Ckq2wLMuFQUxDCvlEYKAiBIiJ+feFH26QBVCSgz9yYPmjIfKTYwb6RmZ3ZvKmbpXw==
+f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
+n pt Rusgas, julgamentos, fuga de carro e fuga da prisão. Equipa com nomes e traços, infiltrados, detetive, agiota, animais, loja de prestígio, bens de luxo, póquer, desafio do dia, modo zen e «Do outro lado» (és tu a vítima). Horários das vítimas e dia/noite. Criador: Alize.On.Me.
+n en Raids, trials, car chases and prison breaks. A team with names and traits, moles, a detective, a loan shark, pets, a prestige shop, luxury goods, poker, a daily challenge, zen mode and The other side (you are the victim). Victim schedules and day/night. Creator: Alize.On.Me.
+n es Redadas, juicios, persecuciones y fugas de la cárcel. Equipo con nombres y rasgos, topos, detective, prestamista, mascotas, tienda de prestigio, lujo, póquer, desafío del día, modo zen y «Al otro lado» (tú eres la víctima). Horarios de las víctimas y día/noche. Creador: Alize.On.Me.
+n zh 突袭、审判、飙车逃跑和越狱。有名字和性格的团队、卧底、私家侦探、高利贷、宠物、声望商店、奢侈品、扑克、每日挑战、佛系模式和“电话另一头”（你是受害者）。受害者作息和昼夜变化。作者：Alize.On.Me。
+n fr Descentes, procès, courses-poursuites et évasions. Équipe avec noms et traits, taupes, détective, usurier, animaux, boutique de prestige, luxe, poker, défi du jour, mode zen et « De l'autre côté » (tu es la victime). Horaires des victimes et jour/nuit. Créateur : Alize.On.Me.
+n de Razzien, Prozesse, Verfolgungsjagden und Gefängnisausbrüche. Team mit Namen und Eigenschaften, Maulwürfe, Detektiv, Kredithai, Haustiere, Prestige-Shop, Luxusgüter, Poker, Tageschallenge, Zen-Modus und „Auf der anderen Seite“ (du bist das Opfer). Opfer-Zeiten und Tag/Nacht. Macher: Alize.On.Me.
+n ru Облавы, суды, погони и побег из тюрьмы. Команда с именами и чертами, кроты, детектив, ростовщик, питомцы, магазин престижа, роскошь, покер, задание дня, дзен-режим и «На том конце провода» (жертва — ты). Расписание жертв, день и ночь. Автор: Alize.On.Me.
+sig MEYCIQDsAuMiq2C6S7UDZbCK5ASYXHBlIq8kKlxpeozvwCSEiAIhAM1IIbSEmEbt1CxiBp4sHVMQdEScVOW63LPJ8M+pGxWx
