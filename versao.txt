@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 551
-v 5.5.1
+c 560
+v 5.6
 min 520
-f c9c43abbcc98ff419945b822c65e9204080537db935e7fe5fd5b0458306b2df8 2315913 index.html
+f 90a844f1ca0c04cb40ca1cc18f48b6483763297e0eed7772a152f1c89c46ce6f 2399837 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -99,6 +99,7 @@ f 9cb0312fe57d4e93ddfee84dcabbe9970612803aa560d2b68f6d224cc8b66483 22988 gfx/MED
 f 0fc63ed3447024c8ec22f8863dd907406bd6c6e22ed181bceb7faa5c307ea572 13478 gfx/MED-4.webp
 f 84dbedc076a9a8a016a5be93510075138ea292d90a7781bd4847c3ccf3071df2 7428 gfx/MED-543.webp
 f 70d5175c1572552e1ad106191045625b43d4bfdad88b56a9332d056855de2def 78344 gfx/MED-55.webp
+f bed4e84793fd7861188350727df355f83db982c55841c61a3dc2793074c17fe0 17538 gfx/MED-56.webp
 f 80e4e3f3278d6d68e8cb653dbf8da3d19f728431b1463178bb2dd519dfebfd58 59832 gfx/animacoes_1.webp
 f 5442bf53ecdd083b73245fb4625907ae8a0e29de1cfbd5ce8966961cacd0ac88 39300 gfx/animacoes_2.webp
 f e60c5855b3155da71519ec852c1cfeb280b769d25a668ffa7663ff8ded928990 13688 gfx/app_logo.webp
@@ -168,11 +169,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Correção urgente: completar um evento de época (Halloween, Black Friday, Natal) estragava o dinheiro (aparecia €∞). Já não acontece. Quem foi apanhado recupera o dinheiro da cópia de segurança do jogo e recebe o prémio que faltou.
-n en Urgent fix: completing a seasonal event (Halloween, Black Friday, Christmas) broke your money (it showed €∞). Fixed. If it happened to you, your money comes back from the game's backup copy, plus the reward you missed.
-n es Corrección urgente: completar un evento de temporada (Halloween, Black Friday, Navidad) estropeaba el dinero (salía €∞). Ya no pasa. Si te ocurrió, recuperas el dinero de la copia de seguridad del juego y el premio que faltó.
-n zh 紧急修复：完成季节活动（万圣节、黑色星期五、圣诞节）会弄坏你的金钱（显示 €∞）。现已修复。如果你遇到了，金钱会从游戏备份中恢复，并补发漏掉的奖励。
-n fr Correctif urgent : terminer un événement saisonnier (Halloween, Black Friday, Noël) cassait ton argent (affiché €∞). C'est corrigé. Si ça t'est arrivé, ton argent revient depuis la sauvegarde du jeu, avec la récompense manquée.
-n de Dringende Korrektur: Ein abgeschlossenes Saison-Event (Halloween, Black Friday, Weihnachten) machte dein Geld kaputt (€∞). Behoben. Falls es dich traf, kommt dein Geld aus der Sicherungskopie zurück, plus die verpasste Belohnung.
-n ru Срочное исправление: завершение сезонного события (Хеллоуин, Чёрная пятница, Рождество) ломало деньги (было €∞). Исправлено. Если это случилось с тобой, деньги вернутся из резервной копии игры вместе с пропущенной наградой.
-sig MEUCIQDxMgA2N32V7PvWsXrq4kFfLamsKaWYaTsnMAd8eKNUhgIgFQjJ8sBexqvVlNoKhYkgXlG1+sUffNgfOD3iSXKUTMw=
+n pt Códigos de amigo e classificação de amigos; classificação por temporada (recomeça em cada evento); sindicatos com meta semanal e raspadinhas; meta da comunidade; 6 conquistas novas. Configurações arrumadas: privacidade num só sítio, «Sobre o jogo», Conforto em secções e sem saltos para o topo.
+n en Friend codes and a friends leaderboard; a seasonal leaderboard that restarts with each event; syndicates with a weekly goal and scratch tickets; a community goal; 6 new achievements. Tidier settings: privacy and data in one place, About the game, and Comfort in sections, with no jumps to the top.
+n es Códigos de amigo y clasificación de amigos; clasificación por temporada (se reinicia en cada evento); sindicatos con meta semanal y boletos de rasca; meta de la comunidad; 6 logros nuevos. Ajustes ordenados: privacidad y datos en un sitio, «Sobre el juego» y Comodidad por secciones.
+n zh 好友码和好友排行榜；赛季排行榜（每个活动重新开始）；带每周目标和刮刮卡的团伙；社区目标；6 个新成就。设置更整齐：隐私与数据集中在一处，新增“关于游戏”，舒适设置分区，改选项时不再跳回顶部。
+n fr Codes ami et classement entre amis ; classement par saison (recommence à chaque événement) ; syndicats avec objectif hebdo et tickets à gratter ; objectif communautaire ; 6 nouveaux succès. Réglages rangés : confidentialité et données au même endroit, « À propos du jeu », Confort en sections.
+n de Freundescodes und Freundes-Rangliste; Saison-Rangliste (startet bei jedem Event neu); Syndikate mit Wochenziel und Rubbellosen; Community-Ziel; 6 neue Erfolge. Aufgeräumte Einstellungen: Datenschutz und Daten an einem Ort, „Über das Spiel“ und Komfort in Abschnitten, ohne Sprung nach oben.
+n ru Коды друзей и рейтинг друзей; сезонный рейтинг (начинается заново с каждым событием); синдикаты с недельной целью и скретч-картами; цель сообщества; 6 новых достижений. Настройки аккуратнее: конфиденциальность и данные в одном месте, «Об игре», «Удобство» по разделам, без прыжков наверх.
+sig MEUCIQC/Jj/uvXX6qyKydPIL53jMIMzceIoNilQlN8JiaCIB0gIgR5OrTwCaFzhhZXlk8codVmihmrgPUj9+15yFFMsE094=
