@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 560
-v 5.6
+c 561
+v 5.6.1
 min 520
-f 90a844f1ca0c04cb40ca1cc18f48b6483763297e0eed7772a152f1c89c46ce6f 2399837 index.html
+f 029a8cfaae29a87e07a230f6e6143ea8d563cefc168db0193b1e7c8f3e841ecf 2402377 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -169,11 +169,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Códigos de amigo e classificação de amigos; classificação por temporada (recomeça em cada evento); sindicatos com meta semanal e raspadinhas; meta da comunidade; 6 conquistas novas. Configurações arrumadas: privacidade num só sítio, «Sobre o jogo», Conforto em secções e sem saltos para o topo.
-n en Friend codes and a friends leaderboard; a seasonal leaderboard that restarts with each event; syndicates with a weekly goal and scratch tickets; a community goal; 6 new achievements. Tidier settings: privacy and data in one place, About the game, and Comfort in sections, with no jumps to the top.
-n es Códigos de amigo y clasificación de amigos; clasificación por temporada (se reinicia en cada evento); sindicatos con meta semanal y boletos de rasca; meta de la comunidad; 6 logros nuevos. Ajustes ordenados: privacidad y datos en un sitio, «Sobre el juego» y Comodidad por secciones.
-n zh 好友码和好友排行榜；赛季排行榜（每个活动重新开始）；带每周目标和刮刮卡的团伙；社区目标；6 个新成就。设置更整齐：隐私与数据集中在一处，新增“关于游戏”，舒适设置分区，改选项时不再跳回顶部。
-n fr Codes ami et classement entre amis ; classement par saison (recommence à chaque événement) ; syndicats avec objectif hebdo et tickets à gratter ; objectif communautaire ; 6 nouveaux succès. Réglages rangés : confidentialité et données au même endroit, « À propos du jeu », Confort en sections.
-n de Freundescodes und Freundes-Rangliste; Saison-Rangliste (startet bei jedem Event neu); Syndikate mit Wochenziel und Rubbellosen; Community-Ziel; 6 neue Erfolge. Aufgeräumte Einstellungen: Datenschutz und Daten an einem Ort, „Über das Spiel“ und Komfort in Abschnitten, ohne Sprung nach oben.
-n ru Коды друзей и рейтинг друзей; сезонный рейтинг (начинается заново с каждым событием); синдикаты с недельной целью и скретч-картами; цель сообщества; 6 новых достижений. Настройки аккуратнее: конфиденциальность и данные в одном месте, «Об игре», «Удобство» по разделам, без прыжков наверх.
-sig MEUCIQC/Jj/uvXX6qyKydPIL53jMIMzceIoNilQlN8JiaCIB0gIgR5OrTwCaFzhhZXlk8codVmihmrgPUj9+15yFFMsE094=
+n pt Correções: o pódio da temporada passa a ser verificado sozinho; proteções contra abusos na meta da comunidade e nos sindicatos; nomes de sindicato sempre mostrados como texto; a política de privacidade explica melhor a meta da comunidade.
+n en Fixes: the season podium is now checked automatically; protection against abuse in the community goal and in syndicates; syndicate names are always shown as plain text; the privacy policy now explains the community goal better.
+n es Correcciones: el podio de la temporada se comprueba solo; protección contra abusos en la meta de la comunidad y en los sindicatos; los nombres de sindicato siempre se muestran como texto; la política de privacidad explica mejor la meta de la comunidad.
+n zh 修复：赛季领奖台现在会自动检查；加强社区目标和团伙的防滥用保护；团伙名称始终以纯文本显示；隐私政策对社区目标的说明更清楚。
+n fr Correctifs : le podium de la saison est vérifié automatiquement ; protection contre les abus dans l'objectif communautaire et les syndicats ; les noms de syndicat sont toujours affichés en texte ; la politique de confidentialité explique mieux l'objectif communautaire.
+n de Korrekturen: Das Saison-Podest wird jetzt automatisch geprüft; Schutz vor Missbrauch beim Community-Ziel und bei Syndikaten; Syndikatsnamen werden immer als Text angezeigt; die Datenschutzerklärung erklärt das Community-Ziel besser.
+n ru Исправления: пьедестал сезона теперь проверяется автоматически; защита от злоупотреблений в цели сообщества и синдикатах; названия синдикатов всегда показываются как текст; политика конфиденциальности лучше объясняет цель сообщества.
+sig MEQCIHxs990qCMFWvEaw2ujhRxkoVIgs9oJyOA1IJxLJsJdQAiBiAFElgca3nbGFSEdai1KWxpfJxOGGWvKFeIYpdWSOrA==
