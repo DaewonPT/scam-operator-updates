@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 550
-v 5.5
+c 551
+v 5.5.1
 min 520
-f 3eb6adc4428958eaf556dfc4d496cb4ab31017512828e2efc9b6d4773d647e0a 2312144 index.html
+f c9c43abbcc98ff419945b822c65e9204080537db935e7fe5fd5b0458306b2df8 2315913 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -168,11 +168,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Rusgas, julgamentos, fuga de carro e fuga da prisão. Equipa com nomes e traços, infiltrados, detetive, agiota, animais, loja de prestígio, bens de luxo, póquer, desafio do dia, modo zen e «Do outro lado» (és tu a vítima). Horários das vítimas e dia/noite. Criador: Alize.On.Me.
-n en Raids, trials, car chases and prison breaks. A team with names and traits, moles, a detective, a loan shark, pets, a prestige shop, luxury goods, poker, a daily challenge, zen mode and The other side (you are the victim). Victim schedules and day/night. Creator: Alize.On.Me.
-n es Redadas, juicios, persecuciones y fugas de la cárcel. Equipo con nombres y rasgos, topos, detective, prestamista, mascotas, tienda de prestigio, lujo, póquer, desafío del día, modo zen y «Al otro lado» (tú eres la víctima). Horarios de las víctimas y día/noche. Creador: Alize.On.Me.
-n zh 突袭、审判、飙车逃跑和越狱。有名字和性格的团队、卧底、私家侦探、高利贷、宠物、声望商店、奢侈品、扑克、每日挑战、佛系模式和“电话另一头”（你是受害者）。受害者作息和昼夜变化。作者：Alize.On.Me。
-n fr Descentes, procès, courses-poursuites et évasions. Équipe avec noms et traits, taupes, détective, usurier, animaux, boutique de prestige, luxe, poker, défi du jour, mode zen et « De l'autre côté » (tu es la victime). Horaires des victimes et jour/nuit. Créateur : Alize.On.Me.
-n de Razzien, Prozesse, Verfolgungsjagden und Gefängnisausbrüche. Team mit Namen und Eigenschaften, Maulwürfe, Detektiv, Kredithai, Haustiere, Prestige-Shop, Luxusgüter, Poker, Tageschallenge, Zen-Modus und „Auf der anderen Seite“ (du bist das Opfer). Opfer-Zeiten und Tag/Nacht. Macher: Alize.On.Me.
-n ru Облавы, суды, погони и побег из тюрьмы. Команда с именами и чертами, кроты, детектив, ростовщик, питомцы, магазин престижа, роскошь, покер, задание дня, дзен-режим и «На том конце провода» (жертва — ты). Расписание жертв, день и ночь. Автор: Alize.On.Me.
-sig MEYCIQDsAuMiq2C6S7UDZbCK5ASYXHBlIq8kKlxpeozvwCSEiAIhAM1IIbSEmEbt1CxiBp4sHVMQdEScVOW63LPJ8M+pGxWx
+n pt Correção urgente: completar um evento de época (Halloween, Black Friday, Natal) estragava o dinheiro (aparecia €∞). Já não acontece. Quem foi apanhado recupera o dinheiro da cópia de segurança do jogo e recebe o prémio que faltou.
+n en Urgent fix: completing a seasonal event (Halloween, Black Friday, Christmas) broke your money (it showed €∞). Fixed. If it happened to you, your money comes back from the game's backup copy, plus the reward you missed.
+n es Corrección urgente: completar un evento de temporada (Halloween, Black Friday, Navidad) estropeaba el dinero (salía €∞). Ya no pasa. Si te ocurrió, recuperas el dinero de la copia de seguridad del juego y el premio que faltó.
+n zh 紧急修复：完成季节活动（万圣节、黑色星期五、圣诞节）会弄坏你的金钱（显示 €∞）。现已修复。如果你遇到了，金钱会从游戏备份中恢复，并补发漏掉的奖励。
+n fr Correctif urgent : terminer un événement saisonnier (Halloween, Black Friday, Noël) cassait ton argent (affiché €∞). C'est corrigé. Si ça t'est arrivé, ton argent revient depuis la sauvegarde du jeu, avec la récompense manquée.
+n de Dringende Korrektur: Ein abgeschlossenes Saison-Event (Halloween, Black Friday, Weihnachten) machte dein Geld kaputt (€∞). Behoben. Falls es dich traf, kommt dein Geld aus der Sicherungskopie zurück, plus die verpasste Belohnung.
+n ru Срочное исправление: завершение сезонного события (Хеллоуин, Чёрная пятница, Рождество) ломало деньги (было €∞). Исправлено. Если это случилось с тобой, деньги вернутся из резервной копии игры вместе с пропущенной наградой.
+sig MEUCIQDxMgA2N32V7PvWsXrq4kFfLamsKaWYaTsnMAd8eKNUhgIgFQjJ8sBexqvVlNoKhYkgXlG1+sUffNgfOD3iSXKUTMw=
