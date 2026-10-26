@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 561
-v 5.6.1
+c 562
+v 5.6.2
 min 520
-f 029a8cfaae29a87e07a230f6e6143ea8d563cefc168db0193b1e7c8f3e841ecf 2402377 index.html
+f 34696477ada03ee4fc6bdd514941ed898baa7a4ac249632f715ee561fb945a63 2403702 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -169,11 +169,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Correções: o pódio da temporada passa a ser verificado sozinho; proteções contra abusos na meta da comunidade e nos sindicatos; nomes de sindicato sempre mostrados como texto; a política de privacidade explica melhor a meta da comunidade.
-n en Fixes: the season podium is now checked automatically; protection against abuse in the community goal and in syndicates; syndicate names are always shown as plain text; the privacy policy now explains the community goal better.
-n es Correcciones: el podio de la temporada se comprueba solo; protección contra abusos en la meta de la comunidad y en los sindicatos; los nombres de sindicato siempre se muestran como texto; la política de privacidad explica mejor la meta de la comunidad.
-n zh 修复：赛季领奖台现在会自动检查；加强社区目标和团伙的防滥用保护；团伙名称始终以纯文本显示；隐私政策对社区目标的说明更清楚。
-n fr Correctifs : le podium de la saison est vérifié automatiquement ; protection contre les abus dans l'objectif communautaire et les syndicats ; les noms de syndicat sont toujours affichés en texte ; la politique de confidentialité explique mieux l'objectif communautaire.
-n de Korrekturen: Das Saison-Podest wird jetzt automatisch geprüft; Schutz vor Missbrauch beim Community-Ziel und bei Syndikaten; Syndikatsnamen werden immer als Text angezeigt; die Datenschutzerklärung erklärt das Community-Ziel besser.
-n ru Исправления: пьедестал сезона теперь проверяется автоматически; защита от злоупотреблений в цели сообщества и синдикатах; названия синдикатов всегда показываются как текст; политика конфиденциальности лучше объясняет цель сообщества.
-sig MEQCIHxs990qCMFWvEaw2ujhRxkoVIgs9oJyOA1IJxLJsJdQAiBiAFElgca3nbGFSEdai1KWxpfJxOGGWvKFeIYpdWSOrA==
+n pt Novo email de contacto: contact@pixellusitano.com — toca nele para o copiar. A política de privacidade foi atualizada com o novo contacto.
+n en New contact email: contact@pixellusitano.com — tap it to copy it. The privacy policy has been updated with the new contact.
+n es Nuevo correo de contacto: contact@pixellusitano.com — tócalo para copiarlo. La política de privacidad se ha actualizado con el nuevo contacto.
+n zh 新的联系邮箱：contact@pixellusitano.com（点按即可复制）。隐私政策已更新为新的联系方式。
+n fr Nouvelle adresse de contact : contact@pixellusitano.com — touche-la pour la copier. La politique de confidentialité a été mise à jour avec le nouveau contact.
+n de Neue Kontakt-E-Mail: contact@pixellusitano.com – tippe darauf, um sie zu kopieren. Die Datenschutzerklärung wurde mit dem neuen Kontakt aktualisiert.
+n ru Новый адрес для связи: contact@pixellusitano.com — нажми на него, чтобы скопировать. Политика конфиденциальности обновлена: в ней указан новый адрес.
+sig MEQCIF5s3/QwP2LXqJ1QNGK5bmH3LrvdcqANGhjcoZze4o97AiAXVnOpRGXR+DBPygP9f1sLLjP3lHKGvlQINaEGxHpcMQ==
