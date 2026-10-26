@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 562
-v 5.6.2
+c 563
+v 5.6.3
 min 520
-f 34696477ada03ee4fc6bdd514941ed898baa7a4ac249632f715ee561fb945a63 2403702 index.html
+f 24954746cad9831aac0183bab4227d7fb4da84d87eaf876aecd622abf2027ab6 2407926 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -100,6 +100,7 @@ f 0fc63ed3447024c8ec22f8863dd907406bd6c6e22ed181bceb7faa5c307ea572 13478 gfx/MED
 f 84dbedc076a9a8a016a5be93510075138ea292d90a7781bd4847c3ccf3071df2 7428 gfx/MED-543.webp
 f 70d5175c1572552e1ad106191045625b43d4bfdad88b56a9332d056855de2def 78344 gfx/MED-55.webp
 f bed4e84793fd7861188350727df355f83db982c55841c61a3dc2793074c17fe0 17538 gfx/MED-56.webp
+f 2cfa8079132435934ef3c676bc53a965950191e5d632e9e4f5f57e81242e1439 3624 gfx/MED-563.webp
 f 80e4e3f3278d6d68e8cb653dbf8da3d19f728431b1463178bb2dd519dfebfd58 59832 gfx/animacoes_1.webp
 f 5442bf53ecdd083b73245fb4625907ae8a0e29de1cfbd5ce8966961cacd0ac88 39300 gfx/animacoes_2.webp
 f e60c5855b3155da71519ec852c1cfeb280b769d25a668ffa7663ff8ded928990 13688 gfx/app_logo.webp
@@ -169,11 +170,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Novo email de contacto: contact@pixellusitano.com — toca nele para o copiar. A política de privacidade foi atualizada com o novo contacto.
-n en New contact email: contact@pixellusitano.com — tap it to copy it. The privacy policy has been updated with the new contact.
-n es Nuevo correo de contacto: contact@pixellusitano.com — tócalo para copiarlo. La política de privacidad se ha actualizado con el nuevo contacto.
-n zh 新的联系邮箱：contact@pixellusitano.com（点按即可复制）。隐私政策已更新为新的联系方式。
-n fr Nouvelle adresse de contact : contact@pixellusitano.com — touche-la pour la copier. La politique de confidentialité a été mise à jour avec le nouveau contact.
-n de Neue Kontakt-E-Mail: contact@pixellusitano.com – tippe darauf, um sie zu kopieren. Die Datenschutzerklärung wurde mit dem neuen Kontakt aktualisiert.
-n ru Новый адрес для связи: contact@pixellusitano.com — нажми на него, чтобы скопировать. Политика конфиденциальности обновлена: в ней указан новый адрес.
-sig MEQCIF5s3/QwP2LXqJ1QNGK5bmH3LrvdcqANGhjcoZze4o97AiAXVnOpRGXR+DBPygP9f1sLLjP3lHKGvlQINaEGxHpcMQ==
+n pt Novidades: uma frase nova no fim dos créditos e a conquista «Até à última linha», para quem vê os créditos até ao fim.
+n en New: a new quote at the end of the credits and the “Until the last line” achievement for watching the credits to the end.
+n es Novedades: una frase nueva al final de los créditos y el logro «Hasta la última línea», por ver los créditos hasta el final.
+n zh 新内容：制作名单结尾新增一句话，以及“看到最后一行”成就：把制作名单看到最后即可获得。
+n fr Nouveautés : une nouvelle phrase à la fin du générique et le succès « Jusqu’à la dernière ligne », pour qui regarde le générique jusqu’au bout.
+n de Neu: ein neuer Satz am Ende des Abspanns und der Erfolg „Bis zur letzten Zeile“ für alle, die den Abspann bis zum Ende ansehen.
+n ru Новое: новая фраза в конце титров и достижение «До последней строчки» за просмотр титров до конца.
+sig MEQCICxsbLyTi4fCkprZwhFPKu2x15y/qwYtBHx7TFY2/tJVAiADqrMoOeUzyA6ywqONgl6KJ5bvxubcpFNRAqKUsaIjSg==
