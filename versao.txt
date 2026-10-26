@@ -2,7 +2,7 @@ SCAMUPD 1
 c 564
 v 5.6.4
 min 520
-f bb04bd166f990dcfecfc744ad799c8a27093ce668148991ce64a8282963a8429 2408024 index.html
+f 4745754d9147617adadd09cd86d958e4e2c23e4709e2dd34f64ab6682d8e51e5 2407912 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -170,11 +170,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Política de privacidade atualizada: o responsável passa a aparecer como Alize.On.Me (Pixel Lusitano), com o mesmo contacto. O jogo não muda.
-n en Privacy policy updated: the person responsible is now shown as Alize.On.Me (Pixel Lusitano), with the same contact. Nothing else changes in the game.
-n es Política de privacidad actualizada: el responsable aparece ahora como Alize.On.Me (Pixel Lusitano), con el mismo contacto. El juego no cambia.
-n zh 隐私政策已更新：负责人现显示为 Alize.On.Me (Pixel Lusitano)，联系方式不变。游戏内容没有变化。
-n fr Politique de confidentialité mise à jour : le responsable apparaît désormais comme Alize.On.Me (Pixel Lusitano), avec le même contact. Le jeu ne change pas.
-n de Datenschutzerklärung aktualisiert: Als Verantwortlicher steht jetzt Alize.On.Me (Pixel Lusitano), mit demselben Kontakt. Am Spiel ändert sich nichts.
-n ru Политика конфиденциальности обновлена: ответственным теперь указан Alize.On.Me (Pixel Lusitano), контакт тот же. В игре ничего не меняется.
-sig MEUCIQCtpkIryGh/u6id7E4ad/b4oyXplOQUsBKrECd4n6RC3QIgcXbxKhJS32a49awEChGy+mVJSW/ngiId696yWaOFPR4=
+n pt Política de privacidade atualizada: o responsável passa a aparecer como @Alize.On.Me.
+n en Privacy policy updated: the person responsible is now shown as @Alize.On.Me.
+n es Política de privacidad actualizada: el responsable aparece ahora como @Alize.On.Me.
+n zh 隐私政策已更新：负责人现显示为 @Alize.On.Me。
+n fr Politique de confidentialité mise à jour : le responsable apparaît désormais comme @Alize.On.Me.
+n de Datenschutzerklärung aktualisiert: Als Verantwortlicher steht jetzt @Alize.On.Me.
+n ru Политика конфиденциальности обновлена: ответственный теперь указан как @Alize.On.Me.
+sig MEYCIQCVk7JIijfUQcTYWc3nlsrJHFRFNyCyrfM+Vx6S7a0t1wIhAJMgePae9yer6uj8xEhwNCkQ9z3u+IHAuvGuxF0k8ntn
