@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 565
-v 5.6.5
+c 566
+v 5.6.6
 min 520
-f 26e199ea40681f7f4de3705c328a69a41f27037ee16aa75f721eb02fb3c63b73 2408024 index.html
+f 41e0b8506cb0032b31fb93d53aaa84e5f7e0c59bf7759e8c396404688e7ec305 2410491 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -170,11 +170,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Política de privacidade: o responsável aparece agora como Alize.On.Me (Pixel Lusitano), igual na app e no site.
-n en Privacy policy: the person responsible is now shown as Alize.On.Me (Pixel Lusitano), the same in the app and on the website.
-n es Política de privacidad: el responsable aparece ahora como Alize.On.Me (Pixel Lusitano), igual en la app y en la web.
-n zh 隐私政策：负责人现显示为 Alize.On.Me (Pixel Lusitano)，应用内与网站一致。
-n fr Politique de confidentialité : le responsable apparaît désormais comme Alize.On.Me (Pixel Lusitano), pareil dans l’app et sur le site.
-n de Datenschutzerklärung: Als Verantwortlicher steht jetzt Alize.On.Me (Pixel Lusitano), gleich in der App und auf der Website.
-n ru Политика конфиденциальности: ответственным теперь указан Alize.On.Me (Pixel Lusitano), одинаково в приложении и на сайте.
-sig MEQCIBrQtqyRSGgRbzpEmguE4wJCRqUM3SqeAy2FY5xSk8GtAiA0y+rTd+bdz+GvMJxGdUkImcrDMXQ9el7/n0YbSMW+TQ==
+n pt Segurança: ao importar um código de jogo partilhado, só entram os dados do jogo. Um código alterado já não consegue correr nada escondido.
+n en Security: when you import a shared game code, only the game data comes in. A tampered code can no longer run anything hidden.
+n es Seguridad: al importar un código de partida compartido, solo entran los datos del juego. Un código alterado ya no puede ejecutar nada oculto.
+n zh 安全：导入别人分享的存档代码时，只会读取游戏数据。被篡改的代码再也无法运行任何隐藏内容。
+n fr Sécurité : en important un code de partie partagé, seules les données du jeu sont reprises. Un code modifié ne peut plus rien exécuter en cachette.
+n de Sicherheit: Beim Importieren eines geteilten Spielcodes werden nur die Spieldaten übernommen. Ein manipulierter Code kann nichts Verstecktes mehr ausführen.
+n ru Безопасность: при импорте чужого кода сохранения загружаются только данные игры. Изменённый код больше не может ничего тайно запустить.
+sig MEUCIQCDyvuBpDjcaFYzhVQ6byzcC7oEnkEkYrPnrgPlH+S96gIgGzwB8aAaVnzaozy67gEXgljroaaQhaCzREMJFExNlws=
