@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 568
-v 5.6.8
+c 569
+v 5.6.9
 min 520
-f e29b67f936bcea0aa8118acebcaffd28614a81d131705f3a7d387a2a1af9b965 2426404 index.html
+f 646c5dfa99328796367d9bc81294841866e50f3e4e4bb7f9b28c3da50da18d0a 2428316 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -170,11 +170,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Correções: os avisos do mesmo toque já não se apagam, o Guardar avisa se não conseguir gravar, a rusga e as crises esperam que feches a página e o Voltar funciona no fim das fugas e no modo difícil.
-n en Fixes: notices from the same tap no longer erase each other, Save tells you if it couldn't save, the raid and crises wait for you to close the page, and Back works at the end of escapes and in Hardcore.
-n es Correcciones: los avisos del mismo toque ya no se borran, Guardar avisa si no pudo guardar, la redada y las crisis esperan a que cierres la página y Atrás funciona al final de las fugas y en Hardcore.
-n zh 修复：同一次点击的通知不再互相覆盖；保存失败时会提示；突袭和危机会等你关闭页面后再出现；逃亡结束时和硬核模式下返回键都能正常使用。
-n fr Corrections : les avis d'un même appui ne s'effacent plus, Sauver prévient s'il n'a pas pu enregistrer, la descente et les crises attendent que tu fermes la page et Retour marche à la fin des fuites et en Hardcore.
-n de Korrekturen: Hinweise vom selben Tippen löschen sich nicht mehr gegenseitig, Speichern meldet, wenn es nicht speichern konnte, Razzia und Krisen warten, bis du die Seite schließt, und Zurück funktioniert am Ende der Fluchten und im Hardcore-Modus.
-n ru Исправления: уведомления от одного нажатия больше не стирают друг друга, «Сохранить» сообщает, если сохранить не удалось, облава и кризисы ждут, пока ты закроешь страницу, а «Назад» работает в конце побегов и в режиме «Хардкор».
-sig MEQCIB0R8ztbeXkoxF5ot+hlrV2VZ7nUw7GwC2i+MaiXn6usAiANKYa8Q6y/rD9dkeT+Hu8H4jTyTks2Qw+Ia92oAPxpZQ==
+n pt Topo novo: o ☰ Menu e a 🎁 passam para a barra azul do título, o Guardar está agora no Menu, o título mostra só a fase e o estado cabe em duas linhas (com «Advogados ×N»). O botão principal fica mais acima no ecrã.
+n en New top bar: ☰ Menu and 🎁 move to the blue title bar, Save is now in the Menu, the title shows only the stage and the status fits in two lines (with «Lawyers ×N»). The main button sits higher on the screen.
+n es Parte superior nueva: el ☰ Menú y el 🎁 pasan a la barra azul del título, Guardar está ahora en el Menú, el título muestra solo la fase y el estado cabe en dos líneas (con «Abogados ×N»). El botón principal queda más arriba en la pantalla.
+n zh 全新顶部：☰ 菜单和 🎁 移到蓝色标题栏，保存按钮移入菜单，标题只显示阶段，状态信息压缩为两行（含「律师 ×N」）。主按钮在屏幕上的位置更高了。
+n fr Nouveau haut d'écran : le ☰ Menu et le 🎁 passent dans la barre bleue du titre, Sauver est maintenant dans le Menu, le titre n'affiche que la phase et l'état tient sur deux lignes (avec « Avocats ×N »). Le bouton principal est plus haut à l'écran.
+n de Neuer oberer Bereich: ☰ Menü und 🎁 sind jetzt in der blauen Titelleiste, Speichern ist im Menü, der Titel zeigt nur die Phase und der Status passt in zwei Zeilen (mit „Anwälte ×N“). Der Hauptknopf sitzt weiter oben.
+n ru Новый верх экрана: ☰ Меню и 🎁 теперь в синей строке заголовка, «Сохранить» перенесено в Меню, в заголовке только фаза, а статус помещается в две строки (с «Адвокаты ×N»). Главная кнопка теперь выше на экране.
+sig MEUCIHk3Nap8403urUTQieNyNu/nnzSZ0K98dBy7nWBada1mAiEAg9+Fb2ONQk16Tl++Prsy+jqTxbKEgllmqPQzPAfvJIU=
