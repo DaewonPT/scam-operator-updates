@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 567
-v 5.6.7
+c 568
+v 5.6.8
 min 520
-f f1a3801c5b5c4a5c6eb2fb6639653c65afff3e8bc14083f412ecc658b591cd55 2426063 index.html
+f e29b67f936bcea0aa8118acebcaffd28614a81d131705f3a7d387a2a1af9b965 2426404 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -170,11 +170,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Ecrã mais arrumado: os separadores ficam em baixo, a Fúria e as notícias já não empurram o botão e o sinal de alerta real aparece junto a ele. O Menu abre por cima do jogo, o Voltar fecha janelas e os avisos aparecem um de cada vez, os da polícia a vermelho.
-n en Tidier screen: the tabs sit at the bottom, Fury and news no longer push the button, and the real red flag shows right next to it. The Menu opens over the game, Back closes windows and notices appear one at a time, police ones in red.
-n es Pantalla más ordenada: las pestañas quedan abajo, la Furia y las noticias ya no empujan el botón y la señal de alerta real aparece junto a él. El Menú se abre sobre el juego, Atrás cierra ventanas y los avisos salen de uno en uno, los de la policía en rojo.
-n zh 界面更整洁：标签栏移到底部，狂怒和新闻不再挤动按钮，真实的危险信号就显示在按钮旁边。菜单在游戏上方打开，返回键会关闭窗口，通知一次只显示一条，警方通知为红色。
-n fr Écran mieux rangé : les onglets sont en bas, la Fureur et les infos ne poussent plus le bouton et le vrai signal d'alerte s'affiche juste à côté. Le Menu s'ouvre par-dessus le jeu, Retour ferme les fenêtres et les avis arrivent un par un, ceux de la police en rouge.
-n de Aufgeräumter Bildschirm: Die Tabs sind unten, Wut und Nachrichten verschieben den Knopf nicht mehr und das echte Warnsignal steht direkt daneben. Das Menü öffnet sich über dem Spiel, Zurück schließt Fenster und Hinweise kommen einzeln, die der Polizei in Rot.
-n ru Экран стал аккуратнее: вкладки внизу, Ярость и новости больше не сдвигают кнопку, а реальный тревожный сигнал виден рядом с ней. Меню открывается поверх игры, «Назад» закрывает окна, а уведомления идут по одному, полицейские — красным.
-sig MEUCIBXnmitBadco3tN+KWAsJKvihr0TLP+ub65XyIqGArW7AiEA5UApqzrL5c5/s398sT2a6O242ExFSQnomQdbBU3iuqU=
+n pt Correções: os avisos do mesmo toque já não se apagam, o Guardar avisa se não conseguir gravar, a rusga e as crises esperam que feches a página e o Voltar funciona no fim das fugas e no modo difícil.
+n en Fixes: notices from the same tap no longer erase each other, Save tells you if it couldn't save, the raid and crises wait for you to close the page, and Back works at the end of escapes and in Hardcore.
+n es Correcciones: los avisos del mismo toque ya no se borran, Guardar avisa si no pudo guardar, la redada y las crisis esperan a que cierres la página y Atrás funciona al final de las fugas y en Hardcore.
+n zh 修复：同一次点击的通知不再互相覆盖；保存失败时会提示；突袭和危机会等你关闭页面后再出现；逃亡结束时和硬核模式下返回键都能正常使用。
+n fr Corrections : les avis d'un même appui ne s'effacent plus, Sauver prévient s'il n'a pas pu enregistrer, la descente et les crises attendent que tu fermes la page et Retour marche à la fin des fuites et en Hardcore.
+n de Korrekturen: Hinweise vom selben Tippen löschen sich nicht mehr gegenseitig, Speichern meldet, wenn es nicht speichern konnte, Razzia und Krisen warten, bis du die Seite schließt, und Zurück funktioniert am Ende der Fluchten und im Hardcore-Modus.
+n ru Исправления: уведомления от одного нажатия больше не стирают друг друга, «Сохранить» сообщает, если сохранить не удалось, облава и кризисы ждут, пока ты закроешь страницу, а «Назад» работает в конце побегов и в режиме «Хардкор».
+sig MEQCIB0R8ztbeXkoxF5ot+hlrV2VZ7nUw7GwC2i+MaiXn6usAiANKYa8Q6y/rD9dkeT+Hu8H4jTyTks2Qw+Ia92oAPxpZQ==
