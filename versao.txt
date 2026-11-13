@@ -1,8 +1,8 @@
 SCAMUPD 1
-c 569
-v 5.6.9
+c 5610
+v 5.6.10
 min 520
-f 646c5dfa99328796367d9bc81294841866e50f3e4e4bb7f9b28c3da50da18d0a 2428316 index.html
+f a1828fb22eb4bb23ab9e8ba663465c0bc1314fcbda6f637406ea4509bfa30efc 2430974 index.html
 f c1084e390c076c187a6002d3047cc3b4921cc2c1ef1e3d4e3e83b48ee221d3a2 61744 gfx/ABS-1.webp
 f 463d3f5d93d9899b8a12b5021c0dd8bd78d90383ad7b07a6f3688192569a8dea 92556 gfx/EXP-1.webp
 f 8fb2202b1218150a03797c84ce94488f9a42a86f7cf4cbb0ede4646f23ebf254 77316 gfx/EXP-2.webp
@@ -170,11 +170,11 @@ f 9af65f7aabf8f28cc75a827faac83b310b3c3d568e4bf5a678e1f73c22127312 992 gfx/rolet
 f bdc7bfc3e481bb264ef6459eaceec02c55b07f49ee1ee3b5f9791592322e1c98 26946 gfx/roleta_roda.webp
 f e7bc52f4002f1290c7d6a0f194bf48cf99f60e0a09da6aa1d07edb86986f627e 12200 gfx/slot_maquina.webp
 f b8a543fe0d7cd8878f83c263e0888662f13d1a0770491935d4e469ce5cdf3316 34196 gfx/tribunal.webp
-n pt Topo novo: o ☰ Menu e a 🎁 passam para a barra azul do título, o Guardar está agora no Menu, o título mostra só a fase e o estado cabe em duas linhas (com «Advogados ×N»). O botão principal fica mais acima no ecrã.
-n en New top bar: ☰ Menu and 🎁 move to the blue title bar, Save is now in the Menu, the title shows only the stage and the status fits in two lines (with «Lawyers ×N»). The main button sits higher on the screen.
-n es Parte superior nueva: el ☰ Menú y el 🎁 pasan a la barra azul del título, Guardar está ahora en el Menú, el título muestra solo la fase y el estado cabe en dos líneas (con «Abogados ×N»). El botón principal queda más arriba en la pantalla.
-n zh 全新顶部：☰ 菜单和 🎁 移到蓝色标题栏，保存按钮移入菜单，标题只显示阶段，状态信息压缩为两行（含「律师 ×N」）。主按钮在屏幕上的位置更高了。
-n fr Nouveau haut d'écran : le ☰ Menu et le 🎁 passent dans la barre bleue du titre, Sauver est maintenant dans le Menu, le titre n'affiche que la phase et l'état tient sur deux lignes (avec « Avocats ×N »). Le bouton principal est plus haut à l'écran.
-n de Neuer oberer Bereich: ☰ Menü und 🎁 sind jetzt in der blauen Titelleiste, Speichern ist im Menü, der Titel zeigt nur die Phase und der Status passt in zwei Zeilen (mit „Anwälte ×N“). Der Hauptknopf sitzt weiter oben.
-n ru Новый верх экрана: ☰ Меню и 🎁 теперь в синей строке заголовка, «Сохранить» перенесено в Меню, в заголовке только фаза, а статус помещается в две строки (с «Адвокаты ×N»). Главная кнопка теперь выше на экране.
-sig MEUCIHk3Nap8403urUTQieNyNu/nnzSZ0K98dBy7nWBada1mAiEAg9+Fb2ONQk16Tl++Prsy+jqTxbKEgllmqPQzPAfvJIU=
+n pt Correções: o último passo do tutorial volta a aparecer no ecrã, o colega Jorge já manda mensagens, o desconto VIP baixa mesmo os preços da Loja, as crises e a rusga esperam enquanto a app está em segundo plano e importar um código já não traz a classificação de outro jogador.
+n en Fixes: the last tutorial step shows on screen again, your colleague Jorge sends messages again, the VIP discount really lowers Shop prices, crises and the raid wait while the app is in the background, and importing a code no longer brings another player's ranking.
+n es Correcciones: el último paso del tutorial vuelve a verse en pantalla, el compañero Jorge ya manda mensajes, el descuento VIP baja de verdad los precios de la Tienda, las crisis y la redada esperan con la app en segundo plano e importar un código ya no trae la clasificación de otro jugador.
+n zh 修复：教程最后一步重新显示在屏幕上；同事乔治终于会发消息了；VIP 折扣真正降低了商店价格；应用在后台时，危机和突袭会暂停等待；导入存档代码不再带入其他玩家的排行榜记录。
+n fr Corrections : la dernière étape du tutoriel revient à l'écran, ton collègue Jorge envoie enfin des messages, la remise VIP baisse vraiment les prix de la Boutique, crises et descente attendent quand l'appli est en arrière-plan, et importer un code n'apporte plus le classement d'un autre joueur.
+n de Korrekturen: Der letzte Tutorial-Schritt ist wieder sichtbar, Kollege Jorge schickt jetzt Nachrichten, der VIP-Rabatt senkt die Preise im Laden wirklich, Krisen und Razzia warten, solange die App im Hintergrund ist, und ein importierter Code bringt keine fremde Rangliste mehr mit.
+n ru Исправления: последний шаг обучения снова виден на экране, коллега Жорже наконец пишет сообщения, скидка VIP действительно снижает цены в Магазине, кризисы и облава ждут, пока приложение в фоне, а импорт кода больше не приносит рейтинг другого игрока.
+sig MEUCIEQUAPF8B3Bk5+WDipSxAT5/Avd4vqkWh/PKAOUu6b5bAiEA+wfD3MZto+eJ8aGhR7L4K7Dyj8yto5JlgyCoY9eKO48=
